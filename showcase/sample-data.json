@@ -1,0 +1,11 @@
+[
+  {
+    "time": "2026-08-13T12:00:00.000Z",
+    "title": "Prompted System Health Check",
+    "safeHtmlItem": [
+      {
+        "html": "\u003cp\u003e¡Hola! This is a \u003cstrong\u003eTest\u003c/strong\u003e message to verify the parser.\u003c/p\u003e\n\u003cp\u003eEntities like \u0026quot;quotes\u0026quot; and double escapes \\u003c should be handled.\u003c/p\u003e\n\u003cpre\u003e\u003ccode\u003e// Sample Code Block\nconst isArchitect = true;\nconsole.log(isArchitect);\u003c/code\u003e\u003c/pre\u003e"
+      }
+    ]
+  }
+]

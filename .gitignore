@@ -1,0 +1,6 @@
+# Ignore real personal data and generated output logs
+*_raw-data.json
+clean_*raw-data.txt
+
+# Ignore the entire raw-data folder (absolute security)
+raw-data/
