@@ -1,0 +1,21 @@
+{
+  "name": "maybells-sanitizer",
+  "version": "1.0.0",
+  "description": "Node.js V8 Native Parsing Engine for Sanitizing HTML",
+  "main": "HTML-Stripper-Node.js",
+  "scripts": {
+    "start": "node HTML-Stripper-Node.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MugeEtik/HTML-Stripper-Node.git"
+  },
+  "keywords": [],
+  "author": "Capitana MayBells",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MugeEtik/HTML-Stripper-Node/issues"
+  },
+  "homepage": "https://github.com/MugeEtik/HTML-Stripper-Node#readme"
+}
